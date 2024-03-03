@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+Hi there 👋 I'm Alexander Shapar.<br>I'm a web developer.
+  <br><br>
+</h1>
 
-<!--
-**AlwastDev/alwastdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### More about me:
 
-Here are some ideas to get you started:
+- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/alexander-shapar-16a963227/)
+- 🐓 [Telegram](https://t.me/allwast)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlwastDev&show_icons=true&theme=tokyonight" width="50%"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlwastDev&theme=tokyonight" width="50%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlwastDev&layout=compact&theme=tokyonight)]
+
+---
