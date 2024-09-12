@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there. 👋 <br /> My name is Oleksandr Shapar.<br />I am a frontend developer.
+Hi there. 👋 <br /> My name is Oleksandr Shapar.<br />I am a full-stack developer.
   <br><br>
 </h1>
 
