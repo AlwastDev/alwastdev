@@ -5,7 +5,7 @@ Hi there. 👋 <br /> My name is Oleksandr Shapar.<br />I am a full-stack develo
 
 ### More about me:
 
-- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/alexander-shapar-16a963227/)
+- 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-shapar-16a963227/)
 - :envelope: [Telegram](https://t.me/allwast)
 
 ---
